@@ -3,4 +3,4 @@ Pazill Social Network Project
 
 To see project files, contact me at me@arifselim.com
 
-oppoturkiye.org
+https://www.oppoturkiye.org
